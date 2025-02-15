@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Clean Water Initiative",
+      "category": "Infrastructure",
+      "description": "Providing clean water access to remote communities...",
+      "image": "./annie-spratt-0cgpyigyIkM-unsplash.jpg",
+      "id":1
+    },
+    {
+      "title": "Education for All",
+      "category": "Education",
+      "description": "Building schools and supporting education programs...",
+      "image": "./annie-spratt-yUZU943bPf4-unsplash.jpg",
+      "id":2
+    },
+    {
+      "title": "Healthcare Outreach",
+      "category": "Healthcare",
+      "description": "Mobile medical clinics for underserved areas...",
+      "image": "./istockphoto-1192658825-612x612.jpg",
+      "id":3
+
+    }
+]
