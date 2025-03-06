@@ -65,7 +65,7 @@ const Blog = () => {
       date: "Feb 12, 2025",
       category: "Education",
       excerpt: "Discover how our education initiatives are creating lasting impact in rural communities...",
-      image: "/api/placeholder/600/400",
+      image: "./istockphoto-1353379172-612x612.jpg",
       author: "Sarah Johnson"
     },
     {
@@ -73,7 +73,7 @@ const Blog = () => {
       date: "Feb 10, 2025",
       category: "Infrastructure",
       excerpt: "Learn about our recent successful implementation of water purification systems...",
-      image: "/api/placeholder/600/400",
+      image: "./water.jpg",
       author: "Michael Chen"
     },
     {
@@ -81,7 +81,7 @@ const Blog = () => {
       date: "Feb 8, 2025",
       category: "Community",
       excerpt: "Meet our dedicated volunteers and hear their inspiring stories of service...",
-      image: "/api/placeholder/600/400",
+      image: "./product-5d52a6ffeac4e.[1600].jpeg",
       author: "Emma Williams"
     }
   ];
